@@ -1,1 +1,0 @@
-Smallest ele is : 5
